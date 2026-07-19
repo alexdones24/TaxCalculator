@@ -1,7 +1,8 @@
  # TaxCalculator
 ### By Alexandra Dones
-Dr. Celly 
-CSC 111-02
+
+#### Acknowledgments
+This project was completed as part of the university course *Introduction to Computers and Basic Programming* under the guidance of Dr. Celly.
 _____________________________
 To use this Windows Form Application, You just need to type your Income on the **Income text box** 
  and your Tax Rate on percentage (%) on the **Tax Rate text box**.
