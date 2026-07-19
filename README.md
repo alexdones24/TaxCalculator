@@ -1,6 +1,7 @@
  # TaxCalculator
 ### By Alexandra Dones
 
+
 #### Acknowledgments
 This project was completed as part of the university course *Introduction to Computers and Basic Programming* under the guidance of Dr. Celly.
 _____________________________
