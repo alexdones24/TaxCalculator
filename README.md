@@ -1,9 +1,5 @@
  # TaxCalculator
 ### By Alexandra Dones
-
----
-#### Acknowledgments
-This project was completed as part of the university course *Introduction to Computers and Basic Programming* under the guidance of Dr. Celly.
 _____________________________
 To use this Windows Form Application, You just need to type your Income on the **Income text box** 
  and your Tax Rate on percentage (%) on the **Tax Rate text box**.
@@ -35,3 +31,6 @@ Here are some example of what it will look like:
 ![Screenshot 2023-09-24 225728](https://github.com/alexdones24/TaxCalculator/assets/145957406/6b6816b7-5b82-4739-9a6d-ade9cd323184)
 
 And you should be able to calculate your Tax. Happy Taxing!
+
+### Acknowledgments
+This project was completed as part of the university course *Introduction to Computers and Basic Programming* under the guidance of Dr. Celly.
